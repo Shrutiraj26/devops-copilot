@@ -15,6 +15,10 @@ An AI-powered DevOps assistant built with **LLaMA 3.3 70B** and **Groq** that he
 | AWS CLI help | Explain and fix AWS CLI errors |
 | Git error fixes | Diagnose and resolve Git issues |
 
+## Live Demo
+
+**https://devops-copilot-o2ha.onrender.com**
+
 ## Demo
 
 ```
